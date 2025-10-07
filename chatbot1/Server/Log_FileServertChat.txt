@@ -1,0 +1,39 @@
+2024-01-16 12:27:03,062 ('127.0.0.1', 59445)(Kostas): Oh! It appears you wrote something I don't understand yet
+2024-01-16 12:27:37,541 ('127.0.0.1', 59456)(John): I'm great! Thanks for asking.
+2024-01-16 12:27:41,406 ('127.0.0.1', 59456)(John): Nice to talk to you
+2024-01-16 12:27:45,749 ('127.0.0.1', 59445)(Kostas): Nice to talk to you
+2024-01-16 12:57:05,042 ('127.0.0.1', 59568)(John): I'm great! Thanks for asking.
+2024-01-16 12:57:32,365 ('127.0.0.1', 59570)(Kostas): Hey there!
+2024-01-16 12:57:35,938 ('127.0.0.1', 59570)(Kostas): I can't answer that yet, please try asking something else.
+2024-01-16 12:57:46,232 ('127.0.0.1', 59570)(Kostas): I can't answer that yet, please try asking something else.
+2024-01-16 12:57:50,192 ('127.0.0.1', 59570)(Kostas): Oh! It appears you wrote something I don't understand yet
+2024-01-16 12:57:56,912 ('127.0.0.1', 59570)(Kostas): Nice to talk to you
+2024-01-16 12:58:05,882 ('127.0.0.1', 59568)(John): Nice to talk to you
+2024-01-16 13:00:25,637 ('127.0.0.1', 59595)(Kostas): I can't answer that yet, please try asking something else.
+2024-01-16 13:01:42,847 ('127.0.0.1', 59600)(George): Hey there!
+2024-01-16 13:01:45,275 ('127.0.0.1', 59600)(George): Nice to talk to you
+2024-01-16 13:01:51,832 ('127.0.0.1', 59595)(Kostas): Nice to talk to you
+2024-01-16 13:41:58,607 ('127.0.0.1', 59859)(Kostas): I can't answer that yet, please try asking something else.
+2024-01-16 13:43:02,970 ('127.0.0.1', 59860)(John): I'm great! Thanks for asking.
+2024-01-16 13:43:39,825 ('127.0.0.1', 59865)(George): My name is Chatbot92!
+2024-01-16 13:43:46,035 ('127.0.0.1', 59865)(George): Nice to talk to you
+2024-01-16 13:43:53,553 ('127.0.0.1', 59860)(John): Oh! It appears you wrote something I don't understand yet
+2024-01-16 13:43:58,848 ('127.0.0.1', 59860)(John): I'm terribly sorry, I didn't quite catch that.
+2024-01-16 13:44:12,712 ('127.0.0.1', 59860)(John): Nice to talk to you
+2024-01-16 13:44:25,065 ('127.0.0.1', 59859)(Kostas): Nice to talk to you
+2024-01-16 14:23:27,637 ('127.0.0.1', 59963)(Kostas): Depends on the project that you want to implement. I understand you through the Python.
+2024-01-16 14:24:11,500 ('127.0.0.1', 59966)(John): Please try writing something more descriptive.
+2024-01-16 14:24:16,628 ('127.0.0.1', 59966)(John): I'm great! Thanks for asking.
+2024-01-16 14:24:19,089 ('127.0.0.1', 59966)(John): Nice to talk to you
+2024-01-16 14:24:24,603 ('127.0.0.1', 59963)(Kostas): Nice to talk to you
+2024-01-18 09:18:32,719 ('127.0.0.1', 54471)(Kostas): My name is Chatbot92!
+2024-01-18 09:19:06,255 ('127.0.0.1', 54473)(John): I'm great! Thanks for asking.
+2024-01-18 09:19:27,462 ('127.0.0.1', 54473)(John): Depends on the project that you want to implement. I understand you through the Python.
+2024-01-18 09:19:31,482 ('127.0.0.1', 54473)(John): Nice to talk to you
+2024-01-18 09:19:38,693 ('127.0.0.1', 54471)(Kostas): Nice to talk to you
+2024-01-18 10:36:42,240 ('127.0.0.1', 54824)(Kostas): I'm terribly sorry, I didn't quite catch that.
+2024-01-18 10:36:54,427 ('127.0.0.1', 54824)(Kostas): Do you mind trying to rephrase that?
+2024-01-18 10:37:03,002 ('127.0.0.1', 54824)(Kostas): My name is Chatbot92!
+2024-01-18 10:37:56,333 ('127.0.0.1', 54833)(John): Depends on the project that you want to implement. I understand you through the Python.
+2024-01-18 10:38:05,357 ('127.0.0.1', 54833)(John): Nice to talk to you
+2024-01-18 10:38:15,456 ('127.0.0.1', 54824)(Kostas): Nice to talk to you

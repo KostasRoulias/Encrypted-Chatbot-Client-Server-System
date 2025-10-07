@@ -1,0 +1,44 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "My name is Chatbot92!",
+    "required_words": ["your", "name"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "old", "are", "you"],
+    "bot_response": "I am just a machine. I was created in 2023.",
+    "required_words": ["old", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "best", "site", "to", "learn", "coding"],
+    "bot_response": "Start by reading: 'w3school.com'.",
+    "required_words": ["site","learn", "coding"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "best", "programming", "language"],
+    "bot_response": "Depends on the project that you want to implement. I understand you through the Python.",
+    "required_words": ["best", "programming", "language"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "exit",
+    "user_input": ["quit", "exit"],
+    "bot_response": "Nice to talk to you",
+    "required_words": []
+  }
+]

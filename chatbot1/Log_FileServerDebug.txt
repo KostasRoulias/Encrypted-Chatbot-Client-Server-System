@@ -1,0 +1,5 @@
+2024-09-27 18:06:59,009 <socket.socket fd=10, family=2, type=1, proto=0, laddr=('127.0.0.1', 50002)>: Error during login: [Errno 32] Broken pipe
+2024-09-27 18:12:03,216 <socket.socket fd=10, family=2, type=1, proto=0, laddr=('127.0.0.1', 50002), raddr=('127.0.0.1', 65057)>(Kostas): Successful login
+2024-09-27 18:12:28,343 <socket.socket fd=10, family=2, type=1, proto=0, laddr=('127.0.0.1', 50002), raddr=('127.0.0.1', 65057)>(Kostas): Connection closed
+2024-09-27 18:13:32,288 <socket.socket fd=10, family=2, type=1, proto=0, laddr=('127.0.0.1', 50002), raddr=('127.0.0.1', 65105)>(Kostas): Successful login
+2024-09-27 18:14:48,787 <socket.socket fd=10, family=2, type=1, proto=0, laddr=('127.0.0.1', 50002), raddr=('127.0.0.1', 65105)>(Kostas): Connection closed

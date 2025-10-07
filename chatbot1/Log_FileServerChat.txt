@@ -1,0 +1,4 @@
+2024-09-27 18:13:36,552 ('127.0.0.1', 65105)(Kostas): Hey there!
+2024-09-27 18:13:51,218 ('127.0.0.1', 65105)(Kostas): My name is Chatbot92!
+2024-09-27 18:14:36,137 ('127.0.0.1', 65105)(Kostas): I can't answer that yet, please try asking something else.
+2024-09-27 18:14:48,784 ('127.0.0.1', 65105)(Kostas): Nice to talk to you

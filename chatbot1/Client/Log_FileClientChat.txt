@@ -1,0 +1,41 @@
+2024-01-16 12:22:10,668 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59439), raddr=('127.0.0.1', 50002)>(John):whats your name?
+2024-01-16 12:22:26,058 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59439), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-16 12:27:03,062 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59445), raddr=('127.0.0.1', 50002)>(Kostas):rsthwrhe
+2024-01-16 12:27:37,539 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59456), raddr=('127.0.0.1', 50002)>(John):how are you?
+2024-01-16 12:27:41,405 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59456), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-16 12:27:45,748 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59445), raddr=('127.0.0.1', 50002)>(Kostas):quit
+2024-01-16 12:57:05,040 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59568), raddr=('127.0.0.1', 50002)>(John):how are you?
+2024-01-16 12:57:32,365 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59570), raddr=('127.0.0.1', 50002)>(Kostas):hi
+2024-01-16 12:57:35,937 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59570), raddr=('127.0.0.1', 50002)>(Kostas):dbrtjet6j5jer67k
+2024-01-16 12:57:46,231 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59570), raddr=('127.0.0.1', 50002)>(Kostas):jetyjt6j
+2024-01-16 12:57:50,192 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59570), raddr=('127.0.0.1', 50002)>(Kostas):je6je6je56
+2024-01-16 12:57:56,912 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59570), raddr=('127.0.0.1', 50002)>(Kostas):quit
+2024-01-16 12:58:05,882 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59568), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-16 13:00:25,635 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59595), raddr=('127.0.0.1', 50002)>(Kostas):gwrhhwrhr
+2024-01-16 13:01:42,846 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59600), raddr=('127.0.0.1', 50002)>(George):hi
+2024-01-16 13:01:45,275 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59600), raddr=('127.0.0.1', 50002)>(George):quit
+2024-01-16 13:01:51,832 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59595), raddr=('127.0.0.1', 50002)>(Kostas):quit
+2024-01-16 13:41:58,606 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59859), raddr=('127.0.0.1', 50002)>(Kostas):gewrhgwr5hw6uj
+2024-01-16 13:43:02,967 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59860), raddr=('127.0.0.1', 50002)>(John):how are you??
+2024-01-16 13:43:39,825 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59865), raddr=('127.0.0.1', 50002)>(George):whats your name??
+2024-01-16 13:43:46,035 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59865), raddr=('127.0.0.1', 50002)>(George):quit
+2024-01-16 13:43:53,553 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59860), raddr=('127.0.0.1', 50002)>(John):erthwruhw65ue53
+2024-01-16 13:43:58,848 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59860), raddr=('127.0.0.1', 50002)>(John):jr7tkjr67kr67
+2024-01-16 13:44:12,711 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59860), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-16 13:44:25,064 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59859), raddr=('127.0.0.1', 50002)>(Kostas):quit
+2024-01-16 14:23:27,635 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59963), raddr=('127.0.0.1', 50002)>(Kostas):whats the best programming language?
+2024-01-16 14:24:11,500 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59966), raddr=('127.0.0.1', 50002)>(John):hnejtyrjetjek
+2024-01-16 14:24:16,628 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59966), raddr=('127.0.0.1', 50002)>(John):how are you?
+2024-01-16 14:24:19,088 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59966), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-16 14:24:24,602 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 59963), raddr=('127.0.0.1', 50002)>(Kostas):quit
+2024-01-18 09:18:32,716 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54471), raddr=('127.0.0.1', 50002)>(Kostas):whats your name?
+2024-01-18 09:19:06,252 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54473), raddr=('127.0.0.1', 50002)>(John):how are you?
+2024-01-18 09:19:27,461 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54473), raddr=('127.0.0.1', 50002)>(John):whats the best programming language to learn?
+2024-01-18 09:19:31,482 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54473), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-18 09:19:38,693 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54471), raddr=('127.0.0.1', 50002)>(Kostas):exit
+2024-01-18 10:36:42,239 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54824), raddr=('127.0.0.1', 50002)>(Kostas):fkjetyket7ke
+2024-01-18 10:36:54,426 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54824), raddr=('127.0.0.1', 50002)>(Kostas):dyjtyjetyj
+2024-01-18 10:37:03,001 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54824), raddr=('127.0.0.1', 50002)>(Kostas):whats your name?
+2024-01-18 10:37:56,330 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54833), raddr=('127.0.0.1', 50002)>(John):whats the best programming language to learn?
+2024-01-18 10:38:05,357 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54833), raddr=('127.0.0.1', 50002)>(John):quit
+2024-01-18 10:38:15,455 <socket.socket fd=5, family=2, type=1, proto=0, laddr=('127.0.0.1', 54824), raddr=('127.0.0.1', 50002)>(Kostas):exit
